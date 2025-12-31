@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<news>
-  <entry>
-    <date>2025-12-30T00:00:00Z</date>
-    <title>Open the Withered Wasteland Shop</title>
-    <text>Takaro shop page.</text>
-    <link>https://dashboard.takaro.io/gameserver/966293fb-1d6b-470c-9d67-4daa7295f135/shop</link>
-  </entry>
-</news>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- - - - - - - - - - -
+##########################
+## Server Panel Deluxe ###
+### 7 Days to Die Mod ####
+##########################
+####### Eihwaz © #########
+##### www.eihwaz.de ######
+##########################
+- - - - - - - - - - - -->
+
+<!-- Replace the url and upload the file (e.g. Github) -->
+<!-- Open the file and click raw button (at right side) -->
+<!-- Copy and paste the url into windows.xml -->
+
+<eihwaz.de>
+	<entry>
+		<link>https://dashboard.takaro.io/gameserver/966293fb-1d6b-470c-9d67-4daa7295f135/shop</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>Server Panel Deluxe</title>
+		<text></text><imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
